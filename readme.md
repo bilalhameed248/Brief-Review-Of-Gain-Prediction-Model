@@ -294,58 +294,12 @@ tensorboard>=2.13.0
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Add tests for new features
-- Update documentation as needed
-- Ensure all tests pass before submitting
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Bio_ClinicalBERT**: Emily Alsentzer et al. for the pre-trained clinical BERT model
 - **MIMIC-III**: Beth Israel Deaconess Medical Center for the clinical database
 - **Hugging Face**: For the Transformers library and model hub
 - **PyTorch**: For the deep learning framework
-
----
-
-## 📧 Contact
-
-For questions, issues, or collaboration opportunities:
-
-- **Project Repository**: [GitHub Link](your-github-link)
-- **Issue Tracker**: [Issues Page](your-github-link/issues)
-
----
-
-## 🔮 Future Work
-
-- [ ] Multi-class classification for different progress levels
-- [ ] Integration with real-time EHR systems
-- [ ] Deployment as REST API
-- [ ] Support for multiple languages
-- [ ] Explainability features (LIME, SHAP)
-- [ ] Model compression for edge deployment
-
 ---
 
 <div align="center">
