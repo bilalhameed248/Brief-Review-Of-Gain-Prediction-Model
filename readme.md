@@ -82,7 +82,7 @@ The **Gain Extraction Model** is an advanced NLP system designed to automaticall
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/bilalhameed248/Brief-Review-Of-Gain-Prediction-Model.git
 cd gain-prediction-project
 ```
 
